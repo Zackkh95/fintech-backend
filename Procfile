@@ -1,1 +1,1 @@
-web: node /backend/auth_demo.js
+web: node /fintech-backend/auth_demo.js
